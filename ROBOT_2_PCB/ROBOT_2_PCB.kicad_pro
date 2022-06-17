@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -133,6 +133,10 @@
         {
           "diameter": 2.0,
           "drill": 0.8
+        },
+        {
+          "diameter": 4.0,
+          "drill": 3.0
         }
       ],
       "zones_allow_external_fillets": false,
