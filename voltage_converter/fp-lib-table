@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name "Arduino")(type "KiCad")(uri "/home/aarjan/Kicad_library/arduino-kicad-library-master/Arduino.pretty")(options "")(descr ""))
-  (lib (name "modFiles")(type "KiCad")(uri "/home/aarjan/Kicad_library/modFiles.pretty")(options "")(descr ""))
-)
