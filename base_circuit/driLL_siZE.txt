@@ -1,5 +1,5 @@
 stm_pins = 0.8
-switch = 0.8
+spdt switch = 0.8
 
 4pin_jst = 0.8
 usb_conn = 0.8
