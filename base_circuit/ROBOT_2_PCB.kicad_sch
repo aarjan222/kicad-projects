@@ -1906,6 +1906,22 @@
     (pin "4" (uuid 525ad095-ad56-4954-9b64-f8a95f39c908))
   )
 
+  (symbol (lib_id "power:GND") (at 99.568 88.138 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 21177c56-f2a5-4c39-9fca-9dfafd9b0072)
+    (property "Reference" "#PWR0112" (id 0) (at 99.568 94.488 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (id 1) (at 99.568 92.71 0))
+    (property "Footprint" "" (id 2) (at 99.568 88.138 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 99.568 88.138 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 2ecd0448-d83a-4cb4-89a1-b66c35f3ed11))
+  )
+
   (symbol (lib_id "Connector_Generic:Conn_01x05") (at 32.004 33.02 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 260ba818-40c8-42e1-8479-b68fa38c4fad)
@@ -2655,6 +2671,9 @@
     )
     (path "/61e5f5ea-158d-428a-b178-7438c90d322f"
       (reference "#PWR0111") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/21177c56-f2a5-4c39-9fca-9dfafd9b0072"
+      (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
     )
     (path "/86c17262-2c7a-4ee7-bb6b-b97ffef60f30"
       (reference "#PWR0113") (unit 1) (value "GND") (footprint "")
