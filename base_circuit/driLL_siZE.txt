@@ -11,6 +11,8 @@ gnd_via_wire = 0.8
 bt_2x04_Conn *2 = 1
 usb_conn_mounting_hole = 1
 
+Mounting Holes = 3
+
 
 
 NOTE:: all sizes are in mm
