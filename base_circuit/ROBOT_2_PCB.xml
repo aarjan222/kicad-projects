@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/home/aarjanbudathoki/BASE/ROBOT_2_PCB.kicad_sch</source>
-    <date>बुधवार 19 अक्टूबर 2022 02:44:03 अपराह्न</date>
+    <source>/home/aarjanbudathoki/kicad-projects/base_circuit/ROBOT_2_PCB.kicad_sch</source>
+    <date>बुधवार 02 नवम्बर 2022 12:03:56 अपराह्न</date>
     <tool>Eeschema 6.0.8-f2edbf62ab~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -51,7 +51,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>56f4ea83-5cf1-48eb-b778-880e5802fbf2</tstamps>
     </comp>
-    <comp ref="D2">
+    <comp ref="D1">
       <value>LED</value>
       <footprint>modfiles:LED_D3.0mm</footprint>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
@@ -60,7 +60,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ac9fbfc9-01d9-4859-b7bb-c68e84be9007</tstamps>
     </comp>
-    <comp ref="D3">
+    <comp ref="D2">
       <value>LED</value>
       <footprint>modfiles:LED_D3.0mm</footprint>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
@@ -68,6 +68,78 @@
       <property name="Sheetfile" value="File: ROBOT_2_PCB.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6ec4df7d-5b0a-4839-b8fa-e2e30756b36d</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ROBOT_2_PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b79e480-afa8-4a28-b14b-e86c879b6938</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ROBOT_2_PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0417a953-ba77-4e7a-95cb-4a4df7561576</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ROBOT_2_PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f1b54ba-8752-4611-a852-a6b47d9daf18</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ROBOT_2_PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ab00b48-bdbf-4008-8736-9bbbdcbe6e6e</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ROBOT_2_PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc038036-3b6a-45c5-8a4a-92d2691ccf4e</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ROBOT_2_PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64fa3b84-9f0d-49f0-b028-71e0c3475855</tstamps>
+    </comp>
+    <comp ref="H7">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ROBOT_2_PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5115cd1f-32c5-4557-87cb-3726f9be507a</tstamps>
+    </comp>
+    <comp ref="H8">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3mm</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: ROBOT_2_PCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6400cdd2-7a55-4d9d-8c2c-7f543a229897</tstamps>
     </comp>
     <comp ref="IMU1">
       <value>Conn_01x04</value>
@@ -355,6 +427,18 @@
         <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
     <libpart lib="Prashant_library" part="STM32F407_Discovery">
       <fields>
         <field name="Reference">U</field>
@@ -492,6 +576,9 @@
     <library logical="Device">
       <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
     </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+    </library>
     <library logical="Prashant_library">
       <uri>/home/aarjanbudathoki/.local/share/kicad/6.0/symbols/Prashant_library.kicad_sym</uri>
     </library>
@@ -529,15 +616,12 @@
     <net code="4" name="12V">
       <node ref="POW_SPLY1" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="5" name="FW1_E2">
-      <node ref="S1" pin="78" pinfunction="PB3" pintype="input"/>
-    </net>
-    <net code="6" name="GND">
+    <net code="5" name="GND">
       <node ref="C1" pin="2" pintype="passive"/>
       <node ref="C2" pin="2" pintype="passive"/>
       <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="IMU1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
@@ -550,165 +634,169 @@
       <node ref="S1" pin="1" pinfunction="GND" pintype="input"/>
       <node ref="S1" pin="49" pinfunction="GND" pintype="input"/>
       <node ref="S1" pin="5" pinfunction="GND" pintype="input"/>
+      <node ref="S1" pin="50" pinfunction="GND" pintype="input"/>
       <node ref="S1" pin="52" pinfunction="GND" pintype="input"/>
     </net>
-    <net code="7" name="M1D">
+    <net code="6" name="M1D">
       <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="S1" pin="94" pinfunction="PA9" pintype="input"/>
     </net>
-    <net code="8" name="M2D">
+    <net code="7" name="M2D">
       <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
-      <node ref="S1" pin="96" pinfunction="PC9" pintype="input"/>
+      <node ref="S1" pin="32" pinfunction="PE14" pintype="input"/>
     </net>
-    <net code="9" name="M3D">
+    <net code="8" name="M3D">
       <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="S1" pin="20" pinfunction="PC4" pintype="input"/>
     </net>
-    <net code="10" name="M4D">
+    <net code="9" name="M4D">
       <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="S1" pin="76" pinfunction="PB5" pintype="input"/>
     </net>
-    <net code="11" name="Motor_1_Enc_1">
+    <net code="10" name="Motor_1_Enc_1">
       <node ref="M1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="S1" pin="27" pinfunction="PE9" pintype="input"/>
     </net>
-    <net code="12" name="Motor_1_Enc_2">
+    <net code="11" name="Motor_1_Enc_2">
       <node ref="M1" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="S1" pin="29" pinfunction="PE11" pintype="input"/>
     </net>
-    <net code="13" name="Motor_1_Pwm">
+    <net code="12" name="Motor_1_Pwm">
       <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
-      <node ref="S1" pin="31" pinfunction="PE13" pintype="input"/>
+      <node ref="S1" pin="95" pinfunction="PC8" pintype="input"/>
     </net>
-    <net code="14" name="Motor_2_Enc_1">
+    <net code="13" name="Motor_2_Enc_1">
       <node ref="M2" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="S1" pin="12" pinfunction="PA0" pintype="input"/>
     </net>
-    <net code="15" name="Motor_2_Enc_2">
+    <net code="14" name="Motor_2_Enc_2">
       <node ref="M2" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="S1" pin="11" pinfunction="PA1" pintype="input"/>
     </net>
-    <net code="16" name="Motor_2_Pwm">
+    <net code="15" name="Motor_2_Pwm">
       <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
-      <node ref="S1" pin="32" pinfunction="PE14" pintype="input"/>
+      <node ref="S1" pin="96" pinfunction="PC9" pintype="input"/>
     </net>
-    <net code="17" name="Motor_3_Enc_1">
+    <net code="16" name="Motor_3_Enc_1">
       <node ref="M3" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="S1" pin="97" pinfunction="PC6" pintype="input"/>
     </net>
-    <net code="18" name="Motor_3_Enc_2">
+    <net code="17" name="Motor_3_Enc_2">
       <node ref="M3" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="S1" pin="98" pinfunction="PC7" pintype="input"/>
     </net>
-    <net code="19" name="Motor_3_Pwm">
+    <net code="18" name="Motor_3_Pwm">
       <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="S1" pin="14" pinfunction="PA2" pintype="input"/>
     </net>
-    <net code="20" name="Motor_4_Enc_1">
+    <net code="19" name="Motor_4_Enc_1">
       <node ref="M4" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="S1" pin="44" pinfunction="PD12" pintype="input"/>
     </net>
-    <net code="21" name="Motor_4_Enc_2">
+    <net code="20" name="Motor_4_Enc_2">
       <node ref="M4" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="S1" pin="45" pinfunction="PD13" pintype="input"/>
     </net>
-    <net code="22" name="Motor_4_Pwm">
+    <net code="21" name="Motor_4_Pwm">
       <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="S1" pin="13" pinfunction="PA3" pintype="input"/>
     </net>
-    <net code="23" name="Net-(D2-Pad1)">
-      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="22" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="S1I1" pin="2" pintype="passive"/>
     </net>
-    <net code="24" name="Net-(D3-Pad1)">
-      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+    <net code="23" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="MPU1" pin="2" pintype="passive"/>
     </net>
-    <net code="25" name="Net-(J1-Pad1)">
+    <net code="24" name="Net-(J1-Pad1)">
       <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="SW1" pin="1" pinfunction="A" pintype="passive"/>
       <node ref="SW2" pin="3" pinfunction="C" pintype="passive"/>
     </net>
-    <net code="26" name="Net-(J1-Pad2)">
+    <net code="25" name="Net-(J1-Pad2)">
       <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
       <node ref="SW1" pin="3" pinfunction="C" pintype="passive"/>
       <node ref="SW2" pin="1" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="27" name="RX">
+    <net code="26" name="RX">
       <node ref="S1" pin="80" pinfunction="PD6" pintype="input"/>
       <node ref="SW2" pin="2" pinfunction="B" pintype="passive"/>
     </net>
-    <net code="28" name="SCL">
+    <net code="27" name="SCL">
       <node ref="IMU1" pin="3" pinfunction="Pin_3" pintype="passive"/>
       <node ref="S1" pin="73" pinfunction="PB6" pintype="input"/>
     </net>
-    <net code="29" name="SDA">
+    <net code="28" name="SDA">
       <node ref="IMU1" pin="4" pinfunction="Pin_4" pintype="passive"/>
       <node ref="S1" pin="74" pinfunction="PB7" pintype="input"/>
     </net>
-    <net code="30" name="TX">
+    <net code="29" name="TX">
       <node ref="S1" pin="79" pinfunction="PD5" pintype="input"/>
       <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
     </net>
-    <net code="31" name="unconnected-(J3-Pad1)">
+    <net code="30" name="unconnected-(J3-Pad1)">
       <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
-    <net code="32" name="unconnected-(S1-Pad2)">
+    <net code="31" name="unconnected-(S1-Pad2)">
       <node ref="S1" pin="2" pinfunction="GND" pintype="input"/>
     </net>
-    <net code="33" name="unconnected-(S1-Pad6)">
+    <net code="32" name="unconnected-(S1-Pad6)">
       <node ref="S1" pin="6" pinfunction="NRST" pintype="input"/>
     </net>
-    <net code="34" name="unconnected-(S1-Pad7)">
+    <net code="33" name="unconnected-(S1-Pad7)">
       <node ref="S1" pin="7" pinfunction="PC1" pintype="input"/>
     </net>
-    <net code="35" name="unconnected-(S1-Pad8)">
+    <net code="34" name="unconnected-(S1-Pad8)">
       <node ref="S1" pin="8" pinfunction="PC0" pintype="input"/>
     </net>
-    <net code="36" name="unconnected-(S1-Pad9)">
+    <net code="35" name="unconnected-(S1-Pad9)">
       <node ref="S1" pin="9" pinfunction="PC3" pintype="input+no_connect"/>
     </net>
-    <net code="37" name="unconnected-(S1-Pad10)">
+    <net code="36" name="unconnected-(S1-Pad10)">
       <node ref="S1" pin="10" pinfunction="PC2" pintype="input"/>
     </net>
-    <net code="38" name="unconnected-(S1-Pad15)">
+    <net code="37" name="unconnected-(S1-Pad15)">
       <node ref="S1" pin="15" pinfunction="PA5" pintype="input"/>
     </net>
-    <net code="39" name="unconnected-(S1-Pad16)">
+    <net code="38" name="unconnected-(S1-Pad16)">
       <node ref="S1" pin="16" pinfunction="PA4" pintype="input"/>
     </net>
-    <net code="40" name="unconnected-(S1-Pad17)">
+    <net code="39" name="unconnected-(S1-Pad17)">
       <node ref="S1" pin="17" pinfunction="PA7" pintype="input"/>
     </net>
-    <net code="41" name="unconnected-(S1-Pad18)">
+    <net code="40" name="unconnected-(S1-Pad18)">
       <node ref="S1" pin="18" pinfunction="PA6" pintype="input"/>
     </net>
-    <net code="42" name="unconnected-(S1-Pad19)">
+    <net code="41" name="unconnected-(S1-Pad19)">
       <node ref="S1" pin="19" pinfunction="PC5" pintype="input"/>
     </net>
-    <net code="43" name="unconnected-(S1-Pad21)">
+    <net code="42" name="unconnected-(S1-Pad21)">
       <node ref="S1" pin="21" pinfunction="PB1" pintype="input"/>
     </net>
-    <net code="44" name="unconnected-(S1-Pad22)">
+    <net code="43" name="unconnected-(S1-Pad22)">
       <node ref="S1" pin="22" pinfunction="PB0" pintype="input"/>
     </net>
-    <net code="45" name="unconnected-(S1-Pad23)">
+    <net code="44" name="unconnected-(S1-Pad23)">
       <node ref="S1" pin="23" pinfunction="GND" pintype="input"/>
     </net>
-    <net code="46" name="unconnected-(S1-Pad24)">
+    <net code="45" name="unconnected-(S1-Pad24)">
       <node ref="S1" pin="24" pinfunction="PB2" pintype="input"/>
     </net>
-    <net code="47" name="unconnected-(S1-Pad25)">
+    <net code="46" name="unconnected-(S1-Pad25)">
       <node ref="S1" pin="25" pinfunction="PE7" pintype="input"/>
     </net>
-    <net code="48" name="unconnected-(S1-Pad26)">
+    <net code="47" name="unconnected-(S1-Pad26)">
       <node ref="S1" pin="26" pinfunction="PE8" pintype="input"/>
     </net>
-    <net code="49" name="unconnected-(S1-Pad28)">
+    <net code="48" name="unconnected-(S1-Pad28)">
       <node ref="S1" pin="28" pinfunction="PE10" pintype="input"/>
     </net>
-    <net code="50" name="unconnected-(S1-Pad30)">
+    <net code="49" name="unconnected-(S1-Pad30)">
       <node ref="S1" pin="30" pinfunction="PE12" pintype="input"/>
+    </net>
+    <net code="50" name="unconnected-(S1-Pad31)">
+      <node ref="S1" pin="31" pinfunction="PE13" pintype="input"/>
     </net>
     <net code="51" name="unconnected-(S1-Pad33)">
       <node ref="S1" pin="33" pinfunction="PE15" pintype="input"/>
@@ -752,77 +840,77 @@
     <net code="64" name="unconnected-(S1-Pad48)">
       <node ref="S1" pin="48" pinfunction="NC" pintype="input"/>
     </net>
-    <net code="65" name="unconnected-(S1-Pad50)">
-      <node ref="S1" pin="50" pinfunction="GND" pintype="input"/>
-    </net>
-    <net code="66" name="unconnected-(S1-Pad51)">
+    <net code="65" name="unconnected-(S1-Pad51)">
       <node ref="S1" pin="51" pinfunction="GND" pintype="input"/>
     </net>
-    <net code="67" name="unconnected-(S1-Pad53)">
+    <net code="66" name="unconnected-(S1-Pad53)">
       <node ref="S1" pin="53" pinfunction="5V" pintype="input"/>
     </net>
-    <net code="68" name="unconnected-(S1-Pad54)">
+    <net code="67" name="unconnected-(S1-Pad54)">
       <node ref="S1" pin="54" pinfunction="5V" pintype="input"/>
     </net>
-    <net code="69" name="unconnected-(S1-Pad55)">
+    <net code="68" name="unconnected-(S1-Pad55)">
       <node ref="S1" pin="55" pinfunction="3V3" pintype="input"/>
     </net>
-    <net code="70" name="unconnected-(S1-Pad56)">
+    <net code="69" name="unconnected-(S1-Pad56)">
       <node ref="S1" pin="56" pinfunction="3V3" pintype="input"/>
     </net>
-    <net code="71" name="unconnected-(S1-Pad57)">
+    <net code="70" name="unconnected-(S1-Pad57)">
       <node ref="S1" pin="57" pinfunction="PH0" pintype="input"/>
     </net>
-    <net code="72" name="unconnected-(S1-Pad58)">
+    <net code="71" name="unconnected-(S1-Pad58)">
       <node ref="S1" pin="58" pinfunction="PH1" pintype="input"/>
     </net>
-    <net code="73" name="unconnected-(S1-Pad59)">
+    <net code="72" name="unconnected-(S1-Pad59)">
       <node ref="S1" pin="59" pinfunction="PC14" pintype="input"/>
     </net>
-    <net code="74" name="unconnected-(S1-Pad60)">
+    <net code="73" name="unconnected-(S1-Pad60)">
       <node ref="S1" pin="60" pinfunction="PC15" pintype="input"/>
     </net>
-    <net code="75" name="unconnected-(S1-Pad61)">
+    <net code="74" name="unconnected-(S1-Pad61)">
       <node ref="S1" pin="61" pinfunction="PE6" pintype="input"/>
     </net>
-    <net code="76" name="unconnected-(S1-Pad62)">
+    <net code="75" name="unconnected-(S1-Pad62)">
       <node ref="S1" pin="62" pinfunction="PC13" pintype="input"/>
     </net>
-    <net code="77" name="unconnected-(S1-Pad63)">
+    <net code="76" name="unconnected-(S1-Pad63)">
       <node ref="S1" pin="63" pinfunction="PE4" pintype="input"/>
     </net>
-    <net code="78" name="unconnected-(S1-Pad64)">
+    <net code="77" name="unconnected-(S1-Pad64)">
       <node ref="S1" pin="64" pinfunction="PE5" pintype="input"/>
     </net>
-    <net code="79" name="unconnected-(S1-Pad65)">
+    <net code="78" name="unconnected-(S1-Pad65)">
       <node ref="S1" pin="65" pinfunction="PE2" pintype="input"/>
     </net>
-    <net code="80" name="unconnected-(S1-Pad66)">
+    <net code="79" name="unconnected-(S1-Pad66)">
       <node ref="S1" pin="66" pinfunction="PE3" pintype="input"/>
     </net>
-    <net code="81" name="unconnected-(S1-Pad67)">
+    <net code="80" name="unconnected-(S1-Pad67)">
       <node ref="S1" pin="67" pinfunction="PE0" pintype="input"/>
     </net>
-    <net code="82" name="unconnected-(S1-Pad68)">
+    <net code="81" name="unconnected-(S1-Pad68)">
       <node ref="S1" pin="68" pinfunction="PE1" pintype="input"/>
     </net>
-    <net code="83" name="unconnected-(S1-Pad69)">
+    <net code="82" name="unconnected-(S1-Pad69)">
       <node ref="S1" pin="69" pinfunction="PB8" pintype="input"/>
     </net>
-    <net code="84" name="unconnected-(S1-Pad70)">
+    <net code="83" name="unconnected-(S1-Pad70)">
       <node ref="S1" pin="70" pinfunction="PB9" pintype="input"/>
     </net>
-    <net code="85" name="unconnected-(S1-Pad71)">
+    <net code="84" name="unconnected-(S1-Pad71)">
       <node ref="S1" pin="71" pinfunction="BOOT0" pintype="input"/>
     </net>
-    <net code="86" name="unconnected-(S1-Pad72)">
+    <net code="85" name="unconnected-(S1-Pad72)">
       <node ref="S1" pin="72" pinfunction="VDD" pintype="input"/>
     </net>
-    <net code="87" name="unconnected-(S1-Pad75)">
+    <net code="86" name="unconnected-(S1-Pad75)">
       <node ref="S1" pin="75" pinfunction="PB4" pintype="input"/>
     </net>
-    <net code="88" name="unconnected-(S1-Pad77)">
+    <net code="87" name="unconnected-(S1-Pad77)">
       <node ref="S1" pin="77" pinfunction="PD7" pintype="input"/>
+    </net>
+    <net code="88" name="unconnected-(S1-Pad78)">
+      <node ref="S1" pin="78" pinfunction="PB3" pintype="input"/>
     </net>
     <net code="89" name="unconnected-(S1-Pad81)">
       <node ref="S1" pin="81" pinfunction="PD3" pintype="input"/>
@@ -863,25 +951,22 @@
     <net code="101" name="unconnected-(S1-Pad93)">
       <node ref="S1" pin="93" pinfunction="PA8" pintype="input"/>
     </net>
-    <net code="102" name="unconnected-(S1-Pad95)">
-      <node ref="S1" pin="95" pinfunction="PC8" pintype="input"/>
-    </net>
-    <net code="103" name="unconnected-(S1-Pad99)">
+    <net code="102" name="unconnected-(S1-Pad99)">
       <node ref="S1" pin="99" pinfunction="GND" pintype="input"/>
     </net>
-    <net code="104" name="unconnected-(S1-Pad100)">
+    <net code="103" name="unconnected-(S1-Pad100)">
       <node ref="S1" pin="100" pinfunction="GND" pintype="input"/>
     </net>
-    <net code="105" name="unconnected-(S1-Pada)">
+    <net code="104" name="unconnected-(S1-Pada)">
       <node ref="S1" pin="a" pinfunction="NC" pintype="input"/>
     </net>
-    <net code="106" name="unconnected-(S1-Padb)">
+    <net code="105" name="unconnected-(S1-Padb)">
       <node ref="S1" pin="b" pinfunction="NC" pintype="input"/>
     </net>
-    <net code="107" name="unconnected-(S1-Padc)">
+    <net code="106" name="unconnected-(S1-Padc)">
       <node ref="S1" pin="c" pinfunction="NC" pintype="input"/>
     </net>
-    <net code="108" name="unconnected-(S1-Padd)">
+    <net code="107" name="unconnected-(S1-Padd)">
       <node ref="S1" pin="d" pinfunction="NC" pintype="input"/>
     </net>
   </nets>

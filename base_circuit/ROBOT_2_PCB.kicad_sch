@@ -1499,10 +1499,6 @@
     (uuid fc20cce1-e460-44e0-8c96-d68fa888dc34)
   )
 
-  (text "laaa****mmmooooo" (at 22.606 -12.7 0)
-    (effects (font (size 10 10)) (justify left bottom))
-    (uuid 1e819d1c-5d58-4854-a828-bb7e764aacc5)
-  )
   (text "MAIN CONTROLLER BOARD\n" (at 79.248 20.574 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2d729338-7639-41ce-b93b-f24cd77ad219)
@@ -2544,7 +2540,7 @@
   (symbol (lib_id "Device:LED") (at 66.802 49.276 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 6ec4df7d-5b0a-4839-b8fa-e2e30756b36d)
-    (property "Reference" "D3" (id 0) (at 66.802 43.8912 0))
+    (property "Reference" "D2" (id 0) (at 66.802 43.8912 0))
     (property "Value" "LED" (id 1) (at 66.9036 46.0756 0))
     (property "Footprint" "modfiles:LED_D3.0mm" (id 2) (at 66.802 49.276 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2682,7 +2678,7 @@
   (symbol (lib_id "Device:LED") (at 66.802 35.052 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ac9fbfc9-01d9-4859-b7bb-c68e84be9007)
-    (property "Reference" "D2" (id 0) (at 66.802 29.6672 0))
+    (property "Reference" "D1" (id 0) (at 66.802 29.6672 0))
     (property "Value" "LED" (id 1) (at 66.9036 31.8516 0))
     (property "Footprint" "modfiles:LED_D3.0mm" (id 2) (at 66.802 35.052 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2974,10 +2970,10 @@
       (reference "C3") (unit 1) (value "104nF") (footprint "modfiles:Capacitor_Disc_Small")
     )
     (path "/ac9fbfc9-01d9-4859-b7bb-c68e84be9007"
-      (reference "D2") (unit 1) (value "LED") (footprint "modfiles:LED_D3.0mm")
+      (reference "D1") (unit 1) (value "LED") (footprint "modfiles:LED_D3.0mm")
     )
     (path "/6ec4df7d-5b0a-4839-b8fa-e2e30756b36d"
-      (reference "D3") (unit 1) (value "LED") (footprint "modfiles:LED_D3.0mm")
+      (reference "D2") (unit 1) (value "LED") (footprint "modfiles:LED_D3.0mm")
     )
     (path "/7b79e480-afa8-4a28-b14b-e86c879b6938"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3mm")
