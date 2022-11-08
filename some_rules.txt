@@ -1,0 +1,8 @@
+12V = 1.25
+9V  = 1
+5VA = 1
+5V  = 1.25 for main line but like for diode 0.8 
+3V3 = 0.8 
+via wire = 0.25
+bt_vcc = 5V
+imu_vcc = 3V3
