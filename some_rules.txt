@@ -6,3 +6,18 @@
 via wire = 0.25
 bt_vcc = 5V
 imu_vcc = 3V3
+
+min clearance = 0.5
+min pad = 1.9
+
+encoder, uart(communication wire) = must twist
+
+mostly use jst and db instead of usb connector
+
+In schematic do label not global label
+put values properly
+
+place componets near as possible for less routing wire length
+
+Make grid size of 1.27mm 
+PLace 104nF capacitor across parallel of 5V and Gnd that may be either in input, communication or interrupt.
