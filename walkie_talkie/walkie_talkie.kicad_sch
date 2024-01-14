@@ -1625,7 +1625,7 @@
     (property "Value" "SW_Push_Dual" (at 37.465 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Button_Switch_THT:SW_PUSH-12mm" (at 37.465 66.04 0)
+    (property "Footprint" "modFilesUpdated:tactile_push_button" (at 37.465 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 37.465 66.04 0)
